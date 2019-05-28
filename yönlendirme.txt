@@ -1,0 +1,4 @@
+oturum.php sayfasýna giriþ yapabilmek için gerekli bilgiler,
+
+kullanýcý adý:Esma veya esma
+þifre:12345
